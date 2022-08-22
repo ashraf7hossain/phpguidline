@@ -1,0 +1,3 @@
+line 1 from txt document
+line 2 from txt document
+line 4 from txt document
